@@ -1,0 +1,1001 @@
+customer_id,age,income,product_owned,competitor_product_owned,last_purchase,churned,product_knowledge
+27584,34,58507,Product C,Competitor Product B,255,0,3
+76260,47,62822,,Competitor Product A,257,0,9
+56411,63,97343,Product A,Competitor Product A,166,1,6
+76928,27,70496,,Competitor Product A,19,1,1
+67383,43,77470,,Competitor Product B,97,1,2
+31256,36,47658,Product B,,117,0,7
+60363,61,38939,Product B,Competitor Product A,189,1,1
+72453,37,41347,Product B,,245,0,4
+72544,45,54524,,,150,1,1
+87494,24,55964,Product C,Competitor Product B,255,0,3
+16544,47,57198,,Competitor Product B,230,0,8
+22924,56,89187,Product C,,206,1,5
+92248,42,36049,Product C,,290,0,6
+61507,48,92303,Product B,,350,1,5
+17662,65,57810,,,313,1,7
+21718,33,37303,Product C,Competitor Product A,187,1,7
+4431,56,69616,,Competitor Product A,123,1,7
+68168,37,45698,Product C,Competitor Product A,95,1,7
+20223,60,71430,Product A,Competitor Product B,357,1,4
+17334,62,67032,Product A,Competitor Product A,18,1,2
+95529,18,57679,Product B,,93,0,9
+68111,33,53361,,,243,0,9
+40574,44,30426,,,98,1,5
+5636,63,38115,,Competitor Product A,271,1,6
+88802,52,56906,Product C,Competitor Product B,227,0,2
+54438,51,72493,Product C,,294,1,6
+24813,30,79107,Product A,,230,1,5
+78753,47,73288,Product C,,31,0,8
+45002,22,38762,,,47,0,10
+62645,70,38486,Product C,,316,0,9
+84955,36,58203,,Competitor Product B,162,0,9
+73707,64,78879,Product A,Competitor Product B,165,0,7
+87042,49,69863,,Competitor Product B,8,0,1
+34767,67,99112,Product B,Competitor Product A,44,1,1
+73409,42,84165,Product A,Competitor Product A,184,1,8
+85138,50,38743,,,158,0,3
+96785,22,89854,Product B,Competitor Product B,330,1,5
+83504,34,44314,,Competitor Product A,249,0,7
+44215,52,79022,Product B,,171,0,2
+81589,45,38709,Product C,,299,0,7
+58356,52,86777,Product A,,197,0,3
+94514,39,72039,Product C,Competitor Product B,42,0,2
+48600,23,49666,Product C,Competitor Product B,164,1,6
+46208,48,71725,Product C,Competitor Product A,267,0,6
+16014,43,49226,Product C,,99,1,2
+77791,19,59098,Product C,Competitor Product B,73,0,2
+23488,28,58000,,Competitor Product A,300,0,1
+63084,49,93329,Product C,Competitor Product A,69,1,5
+51983,32,75087,,,258,0,10
+16834,30,85022,Product C,Competitor Product B,274,0,7
+68572,27,52217,Product A,Competitor Product A,169,0,1
+77622,70,31889,Product B,Competitor Product B,335,0,5
+50321,20,55832,Product C,Competitor Product B,260,0,3
+70837,56,66393,Product A,,310,0,5
+15517,20,74003,Product C,,312,1,3
+50133,20,31751,Product C,Competitor Product B,299,0,10
+1912,41,84975,,Competitor Product A,189,0,3
+73798,35,33713,Product B,Competitor Product B,283,1,7
+56032,45,36680,Product A,Competitor Product B,32,0,9
+10961,39,77975,Product B,Competitor Product B,73,0,9
+81325,28,30882,,,20,0,4
+72618,70,71314,Product B,,196,0,5
+70062,43,32195,Product A,Competitor Product B,74,1,1
+78241,44,95754,,Competitor Product B,321,1,3
+68185,61,67608,Product B,,255,0,5
+50483,63,38173,Product A,,116,0,2
+72440,22,43271,Product B,Competitor Product A,338,1,2
+88555,33,37212,,Competitor Product A,64,1,6
+23977,22,84597,Product A,Competitor Product A,211,1,3
+35933,67,41332,Product C,Competitor Product A,277,1,3
+31099,24,81830,Product C,Competitor Product A,214,1,6
+63380,32,39237,Product C,Competitor Product B,258,1,4
+8877,33,54869,Product C,,178,1,2
+25558,35,85122,Product C,,95,1,6
+6997,19,42493,Product C,Competitor Product A,121,1,8
+97808,44,69688,Product A,,300,0,7
+92165,45,30954,,Competitor Product A,318,0,4
+30195,26,65883,,Competitor Product B,74,1,1
+78525,46,42702,Product A,Competitor Product A,302,0,2
+65514,62,87506,Product A,Competitor Product A,9,0,10
+34215,30,61477,Product A,,154,1,2
+38864,19,86610,Product A,Competitor Product B,343,1,3
+65803,48,48933,Product B,,300,1,4
+27519,34,76391,Product A,,337,1,5
+60331,63,81281,Product A,,86,1,8
+83406,28,50540,Product B,,101,0,4
+25901,48,66775,Product C,Competitor Product B,49,0,7
+77689,24,82558,Product A,Competitor Product B,309,1,2
+70801,23,85913,Product B,,360,0,4
+7991,26,45072,,,211,0,9
+45490,52,83063,Product B,Competitor Product B,30,0,7
+56360,61,96465,Product C,Competitor Product A,203,0,6
+57823,49,82159,Product A,Competitor Product B,290,0,5
+88961,37,87552,Product C,Competitor Product B,296,1,2
+42373,45,99329,Product B,Competitor Product A,294,0,6
+14677,61,55344,Product A,Competitor Product A,68,0,4
+44648,43,33861,Product C,Competitor Product B,240,0,8
+86892,42,80333,,Competitor Product B,324,0,6
+16131,49,30796,Product B,,126,0,3
+263,46,31300,Product C,Competitor Product B,311,0,1
+73951,35,65418,Product B,Competitor Product A,234,1,10
+62122,60,67452,Product B,Competitor Product A,94,1,3
+40484,40,75266,Product A,,149,1,10
+22408,28,52042,,Competitor Product B,257,1,9
+39184,52,78790,Product B,Competitor Product B,251,0,10
+83741,66,71951,Product C,Competitor Product A,156,1,8
+81237,32,34913,Product A,Competitor Product B,59,1,1
+92207,33,55331,Product C,Competitor Product A,278,0,10
+1249,61,42962,Product B,,289,1,5
+12254,68,40130,Product A,Competitor Product B,89,0,1
+27963,18,66095,Product C,Competitor Product B,168,0,3
+30054,69,63238,,Competitor Product B,45,0,1
+53225,40,93638,Product C,Competitor Product B,133,0,6
+49214,56,43360,,,155,1,3
+87721,56,96750,Product A,Competitor Product B,140,0,3
+6467,39,44106,,Competitor Product B,324,1,7
+30320,58,48582,Product A,Competitor Product B,46,0,3
+65448,35,56074,Product C,,256,1,1
+23763,52,47617,Product A,Competitor Product A,78,0,6
+71105,46,92711,Product C,Competitor Product A,126,1,3
+19118,42,36295,Product B,Competitor Product B,165,0,8
+8832,65,50369,Product A,Competitor Product B,49,1,3
+45257,23,86336,Product C,Competitor Product B,287,0,2
+46875,48,69240,Product C,Competitor Product A,249,1,7
+32374,62,74406,Product A,,320,0,4
+5224,37,87983,Product B,Competitor Product B,127,0,7
+9563,21,95827,Product B,Competitor Product A,106,1,5
+92437,22,61744,Product A,,44,0,7
+73262,64,58620,Product B,,2,0,3
+52207,30,94148,,Competitor Product B,21,1,9
+74881,43,69061,Product C,,351,0,5
+45777,64,33788,,Competitor Product A,29,1,3
+83880,52,51131,Product A,,350,0,3
+10490,63,42990,Product C,Competitor Product B,365,1,3
+37718,41,51697,Product A,Competitor Product A,358,1,2
+13076,22,87446,Product A,Competitor Product A,284,0,3
+14025,41,35518,Product B,Competitor Product B,223,0,3
+85110,56,37404,Product B,Competitor Product A,256,0,5
+98511,59,66154,Product A,Competitor Product B,311,1,4
+65279,50,63612,,,245,0,4
+42220,21,76516,Product A,Competitor Product A,232,1,3
+98001,59,99669,Product C,,51,0,6
+69881,54,37912,Product C,Competitor Product B,351,1,7
+4838,29,99953,Product C,Competitor Product A,318,0,6
+44390,36,78770,Product C,Competitor Product A,89,0,2
+67558,53,46092,Product B,Competitor Product B,242,1,9
+77490,45,93847,Product B,,313,1,2
+73005,28,66517,Product B,Competitor Product B,107,1,1
+33893,31,80633,Product C,,117,0,9
+2300,57,97506,Product A,Competitor Product A,81,1,4
+43779,60,30356,Product B,Competitor Product A,20,1,10
+1208,38,69195,Product B,,301,1,4
+93117,52,72727,,,118,1,1
+9041,51,93287,Product A,Competitor Product B,81,0,1
+47927,61,60904,Product C,,213,0,7
+45921,55,38635,Product A,,339,1,2
+63195,23,46095,,,319,0,10
+32896,33,69624,Product A,Competitor Product B,13,1,2
+77810,34,58320,Product B,Competitor Product A,301,1,1
+24725,46,54795,Product A,Competitor Product B,278,0,2
+55592,68,55293,,,157,0,2
+39886,64,90964,Product C,Competitor Product B,114,0,8
+31640,69,62072,,Competitor Product B,264,0,9
+364,70,49203,Product C,,272,0,3
+64025,22,57573,Product A,Competitor Product A,259,0,9
+32542,37,42887,Product A,,307,0,10
+46601,43,39669,Product A,,258,1,9
+90328,39,72891,Product B,Competitor Product B,67,1,4
+20517,68,95291,Product C,Competitor Product A,305,1,3
+78798,23,48035,Product B,,220,0,9
+73877,34,51793,Product C,Competitor Product B,174,0,6
+47132,42,44412,Product A,Competitor Product A,241,1,4
+20305,66,38676,Product B,,307,1,5
+79732,43,33218,Product C,Competitor Product A,221,0,8
+17266,29,32488,Product B,,140,0,8
+53782,27,79304,,Competitor Product B,169,1,1
+44413,25,43356,Product A,,354,0,1
+64199,46,49667,,Competitor Product B,228,1,4
+54603,24,65058,Product A,,102,1,4
+37812,39,75869,Product A,Competitor Product A,139,1,4
+38593,18,56560,Product B,Competitor Product B,149,0,9
+17447,41,68713,Product A,Competitor Product A,255,0,3
+84424,26,54158,Product C,Competitor Product B,48,0,5
+91814,37,38463,Product C,Competitor Product A,254,1,4
+17209,25,72793,Product C,Competitor Product B,196,1,3
+42945,67,66837,Product C,,114,0,7
+14144,33,72985,Product C,,332,0,7
+59559,47,53255,,Competitor Product A,30,1,4
+34202,20,99505,Product C,Competitor Product B,189,1,6
+64242,20,68620,,Competitor Product A,307,0,3
+12438,44,68962,Product B,,153,0,6
+85663,48,60492,Product B,,74,1,9
+97,21,44797,,Competitor Product B,143,1,4
+4448,38,45343,,,103,1,5
+91475,37,78851,Product A,Competitor Product B,310,1,7
+22008,69,47086,Product A,Competitor Product B,107,1,10
+77046,62,35674,Product B,Competitor Product A,176,1,6
+94292,50,42881,Product A,Competitor Product A,264,1,9
+66659,63,81791,,Competitor Product A,78,1,5
+61502,64,74163,Product B,Competitor Product B,252,1,8
+17306,59,83222,Product C,Competitor Product A,173,1,3
+9656,33,41114,,Competitor Product A,209,1,9
+97391,49,67693,,,330,0,4
+26682,42,42870,Product A,Competitor Product B,243,0,6
+93687,70,79089,,Competitor Product A,353,1,4
+81093,44,41298,Product B,Competitor Product A,11,0,9
+25271,69,59081,Product B,,31,1,6
+32233,36,94465,Product A,Competitor Product B,274,1,6
+82123,45,34199,,,197,0,5
+85799,65,85388,Product A,Competitor Product B,329,0,9
+32786,19,96174,,Competitor Product B,34,1,3
+2106,60,43127,Product B,Competitor Product A,89,0,5
+73690,26,96334,Product C,Competitor Product A,156,1,1
+57575,55,54669,Product A,,95,0,10
+36506,61,48852,Product C,Competitor Product A,364,1,4
+84143,64,51585,Product C,Competitor Product B,57,1,10
+19786,35,77992,,Competitor Product B,19,1,9
+49856,58,53912,Product B,,356,0,4
+66237,30,67741,Product A,Competitor Product A,211,0,10
+33302,21,75733,Product B,Competitor Product B,142,1,10
+81004,19,41155,Product C,Competitor Product B,147,1,8
+40938,70,98825,Product C,Competitor Product B,343,0,2
+17024,35,70043,,Competitor Product B,277,0,4
+21241,44,84001,Product B,Competitor Product B,310,1,9
+79781,39,31330,Product B,Competitor Product A,241,0,2
+36474,54,90685,Product B,Competitor Product A,99,0,8
+63216,23,47696,Product B,Competitor Product B,204,0,5
+26735,67,57119,,Competitor Product B,307,0,6
+11123,61,33961,,Competitor Product A,11,1,3
+37020,56,47263,Product A,Competitor Product A,228,0,6
+30625,28,73612,,Competitor Product A,175,1,5
+12130,52,62676,Product A,,17,1,5
+49545,40,87526,,Competitor Product B,289,1,1
+37854,21,97362,Product C,Competitor Product A,340,1,2
+68835,25,92532,Product C,Competitor Product A,254,0,8
+89564,35,60484,Product A,,142,0,10
+24828,32,77675,Product B,Competitor Product B,228,0,7
+87219,49,96518,,,229,0,5
+17857,50,84252,,,98,0,3
+21906,35,74926,Product C,Competitor Product B,158,1,9
+78758,64,42252,Product A,Competitor Product B,276,0,8
+4176,68,90748,Product A,,155,1,8
+7826,30,62462,Product C,,258,1,6
+1843,22,80258,Product A,Competitor Product B,296,1,8
+58018,37,47708,Product C,Competitor Product B,120,0,6
+73271,56,61481,Product A,,312,1,4
+85037,59,45627,Product A,Competitor Product B,362,0,4
+70926,29,85483,,Competitor Product B,104,0,10
+58778,57,49388,,,301,1,7
+94204,63,44138,Product B,Competitor Product B,339,0,6
+62270,24,91857,Product B,Competitor Product B,322,1,5
+58973,58,84426,Product B,,301,0,10
+26128,27,60546,Product A,Competitor Product A,58,0,2
+28738,41,31031,Product A,Competitor Product B,89,1,2
+33559,66,68556,Product B,,283,0,2
+95274,36,44410,,Competitor Product B,131,0,8
+17898,69,68344,,Competitor Product B,272,0,2
+59741,42,93168,Product A,,294,1,1
+75226,70,44738,,Competitor Product B,298,0,5
+85423,19,65407,Product C,,339,1,1
+99198,23,73164,Product C,,50,0,5
+49872,23,82103,Product A,Competitor Product B,182,0,3
+74157,24,48508,Product C,Competitor Product B,115,0,8
+25569,21,37962,Product A,Competitor Product B,151,1,2
+17420,37,70892,Product C,Competitor Product A,38,1,2
+93519,32,33208,Product A,Competitor Product A,97,0,3
+52557,49,43998,,,61,0,2
+61614,42,62446,Product C,Competitor Product A,325,0,7
+9507,37,62879,Product A,Competitor Product A,239,1,10
+98314,18,78113,,Competitor Product B,197,1,4
+70279,19,88475,Product B,Competitor Product B,92,1,4
+26613,57,79896,Product B,Competitor Product B,102,1,10
+51919,25,79570,Product B,Competitor Product A,197,0,4
+55402,54,44573,Product C,Competitor Product B,210,0,3
+72265,47,58174,Product B,Competitor Product A,58,0,7
+16434,42,61307,Product C,,192,1,6
+14398,19,52996,,Competitor Product A,110,0,6
+16279,58,88012,Product C,,320,1,4
+13947,60,85742,,Competitor Product B,231,0,6
+94327,19,42170,Product A,Competitor Product B,152,0,7
+21614,58,70740,,,224,0,4
+55583,39,73495,Product A,Competitor Product A,88,1,1
+91379,29,49894,,,75,0,5
+10297,64,67523,Product B,Competitor Product B,177,1,8
+30762,44,61741,Product B,Competitor Product B,292,1,5
+73090,58,57983,Product A,Competitor Product A,147,0,5
+52548,59,73767,Product A,,26,0,7
+64916,45,57602,Product A,,338,0,2
+49893,39,65908,Product C,Competitor Product B,168,1,2
+42992,68,62987,Product C,Competitor Product B,353,1,8
+29062,62,73674,,Competitor Product B,85,1,4
+4977,35,41563,Product C,Competitor Product B,224,1,8
+21631,41,47719,,Competitor Product A,213,0,1
+46547,66,83049,Product B,Competitor Product B,316,1,7
+16086,27,54078,Product B,,151,0,4
+28457,25,55560,Product A,,182,1,5
+59947,44,34276,Product B,Competitor Product B,24,1,2
+58186,54,32304,,Competitor Product B,257,1,5
+46250,70,97006,,Competitor Product B,275,1,7
+4035,50,73454,,Competitor Product A,296,0,8
+2533,42,99977,Product C,Competitor Product B,327,0,1
+70524,65,70694,Product B,Competitor Product B,356,0,5
+33692,19,84792,Product C,Competitor Product B,183,0,7
+50736,19,33104,Product C,,71,0,6
+89869,49,32559,Product A,Competitor Product A,115,0,1
+39409,21,32395,Product C,Competitor Product B,182,1,8
+53879,18,91955,Product C,,302,0,9
+70672,33,98207,,Competitor Product B,40,0,10
+60673,34,80151,Product C,Competitor Product B,50,0,7
+96353,29,61712,Product A,Competitor Product A,213,1,3
+71927,67,79420,Product B,,285,0,9
+44580,58,91988,,Competitor Product B,352,1,10
+66600,49,97987,Product C,Competitor Product A,317,0,4
+15292,22,88584,Product B,,118,0,3
+35156,58,81731,Product C,Competitor Product A,271,1,4
+32733,20,71097,,,338,1,9
+20746,22,32956,Product A,,190,0,3
+23137,66,64825,Product B,,67,1,5
+30929,25,49076,Product A,Competitor Product A,61,0,4
+87031,62,69667,,Competitor Product A,342,1,1
+72405,21,91577,Product B,Competitor Product A,114,0,2
+72131,43,76902,Product B,Competitor Product B,314,0,3
+19205,20,80558,Product A,,25,1,8
+60969,58,57628,Product B,,227,1,3
+78498,31,70563,Product C,Competitor Product B,105,0,3
+55238,56,85770,Product B,Competitor Product B,303,1,6
+85246,24,79047,,Competitor Product A,64,0,4
+53496,54,75279,,Competitor Product A,26,0,6
+96092,54,47986,,Competitor Product B,252,1,8
+13683,21,48852,,Competitor Product B,140,1,2
+34662,29,46382,Product B,Competitor Product B,38,0,5
+83852,35,92902,Product C,,156,0,1
+48841,55,53875,,Competitor Product A,214,1,1
+17655,52,60247,,,134,0,8
+17533,23,81801,Product A,,288,1,3
+77666,19,44500,,Competitor Product B,138,1,6
+44230,25,62659,Product B,,358,1,1
+58408,33,73820,,Competitor Product B,241,1,6
+72103,43,48087,Product B,Competitor Product A,110,0,4
+61655,32,49437,Product A,Competitor Product B,166,1,3
+11197,63,68225,Product C,Competitor Product B,42,1,10
+39650,36,94631,,,325,1,10
+64038,45,66953,Product C,,77,1,4
+6560,67,30695,,Competitor Product A,288,0,9
+19130,68,48926,,Competitor Product B,210,0,1
+30405,45,44503,Product A,Competitor Product B,240,1,2
+79543,55,30090,Product A,,247,0,5
+64033,66,77279,,,143,1,1
+84711,43,62885,Product A,Competitor Product A,202,0,4
+27450,52,66853,Product B,,344,1,6
+92782,49,58935,Product C,Competitor Product A,24,0,2
+91133,30,51674,Product A,,126,1,9
+35966,38,69828,Product B,Competitor Product B,242,0,10
+92477,62,39494,Product B,Competitor Product A,155,0,8
+10117,41,46188,Product A,Competitor Product A,286,1,2
+73047,26,37973,Product A,Competitor Product A,53,0,5
+26973,40,44133,,,133,1,2
+80769,46,63676,Product B,Competitor Product A,142,0,4
+42780,27,78103,Product A,Competitor Product B,359,1,6
+8870,21,52503,Product A,,177,0,3
+28953,27,45947,Product A,Competitor Product B,311,0,1
+17617,36,30113,Product C,Competitor Product B,161,1,9
+45363,38,99746,Product C,Competitor Product A,357,1,1
+949,48,78323,Product A,Competitor Product A,124,1,3
+20703,22,93508,,Competitor Product B,314,0,10
+21630,49,53017,,Competitor Product B,162,1,6
+48573,33,70597,Product B,Competitor Product B,186,0,5
+24331,22,67907,Product A,Competitor Product A,286,1,2
+67218,44,35591,Product C,Competitor Product B,274,0,1
+31063,21,76362,Product A,Competitor Product B,94,1,1
+30738,53,36993,,Competitor Product B,98,0,3
+13014,28,42573,Product C,,162,0,1
+64606,40,98173,,Competitor Product A,256,0,4
+47639,34,95778,Product C,Competitor Product B,200,1,3
+72401,68,94220,Product A,Competitor Product A,77,0,5
+86621,64,30457,Product C,Competitor Product B,298,0,7
+10080,59,88790,Product A,,119,1,5
+30246,55,64112,,,224,0,5
+62174,61,95059,Product C,,155,0,5
+11710,23,31101,Product B,Competitor Product B,270,0,5
+45658,33,47677,,,312,0,2
+14968,40,36268,Product A,Competitor Product B,15,0,10
+51388,43,95729,Product C,Competitor Product A,170,1,10
+31168,23,74165,,,80,1,6
+17062,48,43137,Product B,Competitor Product B,195,1,2
+25317,44,35382,Product A,Competitor Product A,260,0,7
+7650,52,49160,Product A,Competitor Product A,354,0,4
+61356,44,73373,Product C,Competitor Product A,268,0,5
+61477,64,70619,Product C,,322,1,8
+33810,41,88436,,Competitor Product A,12,1,8
+38986,66,87739,Product B,Competitor Product A,344,0,9
+36763,31,79551,Product B,Competitor Product B,65,1,2
+26869,34,90479,Product C,,41,0,6
+56347,54,96069,,,57,1,4
+695,67,75210,,Competitor Product B,146,1,8
+10841,54,81362,Product C,,323,0,8
+22432,39,38324,Product A,Competitor Product A,137,1,6
+5220,42,61126,Product C,Competitor Product B,324,1,3
+41842,18,79499,,Competitor Product A,319,1,2
+72642,19,99807,Product C,,347,0,10
+99908,64,80302,,Competitor Product A,215,0,5
+1810,69,96415,Product C,Competitor Product A,52,1,7
+90566,24,94486,Product C,Competitor Product B,297,1,7
+25356,25,80129,Product C,Competitor Product A,16,1,8
+51079,51,57061,Product C,Competitor Product B,155,0,9
+7766,28,31227,Product B,Competitor Product A,222,1,2
+70550,34,56346,Product A,Competitor Product B,166,1,10
+94754,58,54167,,,97,0,3
+12596,58,96691,Product A,,250,0,7
+96945,42,98641,Product C,,292,1,8
+44271,57,88592,Product C,Competitor Product A,5,0,8
+30187,62,71271,Product C,Competitor Product B,233,0,10
+70945,34,83516,Product A,,361,0,5
+27782,68,60354,,,330,1,7
+91186,54,46334,Product C,Competitor Product A,267,0,5
+11157,50,71442,Product A,Competitor Product B,195,1,8
+12565,41,82609,Product B,,177,1,5
+341,26,40568,Product B,Competitor Product B,27,1,2
+66339,22,87965,Product B,Competitor Product A,187,0,3
+75974,33,45330,Product C,,225,1,1
+95043,20,36023,Product C,Competitor Product A,181,1,3
+8498,40,55451,Product C,Competitor Product A,151,1,4
+96847,26,87976,Product B,Competitor Product B,258,0,9
+49563,52,35327,,,8,1,10
+72636,43,84618,,Competitor Product A,195,1,6
+25849,32,96838,Product C,Competitor Product B,212,0,10
+84191,48,85026,Product B,Competitor Product A,38,0,2
+42546,64,35027,,Competitor Product B,263,0,8
+7365,69,89480,,Competitor Product A,251,0,8
+97648,35,76952,Product A,,38,0,3
+5301,55,90335,Product A,Competitor Product B,281,1,9
+45491,56,34588,Product C,,24,1,6
+93808,66,95799,Product B,Competitor Product B,363,0,4
+85528,29,62325,Product C,,71,1,9
+10779,41,39918,,,81,1,1
+8343,29,91717,Product A,Competitor Product B,93,0,10
+18651,65,43310,Product C,Competitor Product A,60,0,5
+56702,22,76016,Product B,,140,0,1
+95783,25,78321,Product C,Competitor Product B,175,0,7
+105,61,78653,Product A,Competitor Product B,313,0,7
+58744,44,60204,Product A,Competitor Product A,316,0,9
+92895,46,43884,Product A,,336,0,6
+50018,27,76983,Product C,Competitor Product B,162,1,7
+52376,49,47455,Product A,Competitor Product A,30,1,6
+86795,69,36075,,Competitor Product B,170,0,4
+21640,34,70875,Product B,Competitor Product A,203,1,9
+68152,42,62050,Product A,Competitor Product B,253,0,4
+51335,49,62558,Product A,Competitor Product A,256,0,4
+97892,21,34118,,Competitor Product B,68,1,3
+55460,19,67911,Product A,Competitor Product A,149,0,8
+2973,31,61602,Product B,,262,0,8
+9543,34,92099,Product C,Competitor Product B,181,1,9
+66644,29,48578,Product B,,11,0,9
+64949,62,79855,Product B,Competitor Product A,365,1,9
+11826,37,79423,,Competitor Product B,70,1,4
+30362,25,94164,Product A,Competitor Product A,360,1,5
+64463,29,58992,Product B,Competitor Product B,93,0,5
+48499,51,34722,,Competitor Product B,60,1,10
+48039,37,79554,,Competitor Product A,205,1,4
+70384,21,83202,Product B,,191,0,5
+93856,55,97562,Product C,Competitor Product A,14,1,5
+3746,70,54074,,Competitor Product A,206,1,1
+80160,61,70896,Product C,,199,1,4
+19665,65,99652,Product B,Competitor Product A,7,0,10
+38854,40,93319,Product C,,302,0,2
+33261,51,31027,,Competitor Product B,199,1,1
+84709,44,87922,,Competitor Product A,26,1,3
+58237,47,48095,Product C,Competitor Product A,186,0,6
+26538,28,67066,Product A,Competitor Product A,269,0,10
+70855,47,82868,Product C,,100,1,2
+15926,34,61564,Product A,,49,1,6
+50546,18,74017,Product A,,85,1,7
+64313,31,55737,Product B,Competitor Product B,329,1,1
+78134,44,47745,Product A,Competitor Product B,108,1,9
+62441,50,73856,Product B,,248,1,1
+62876,63,87737,,Competitor Product B,85,1,7
+28693,34,57866,Product A,,58,0,10
+91058,59,90173,Product A,,150,1,7
+81972,28,84083,Product C,Competitor Product B,244,0,5
+63961,68,35007,,Competitor Product A,168,1,10
+76264,24,61829,Product C,,158,0,9
+42970,44,58123,,,277,1,8
+95606,32,91234,Product B,Competitor Product B,327,0,7
+89698,40,92690,Product A,Competitor Product A,128,1,4
+98611,56,83036,Product C,Competitor Product B,82,1,5
+4895,29,42243,,,46,1,3
+76182,47,68569,,,17,0,1
+13022,51,93884,,,55,0,1
+72606,54,56076,,Competitor Product A,101,1,7
+95280,50,96187,Product B,Competitor Product A,146,0,8
+15980,29,78762,Product B,Competitor Product B,105,1,2
+30212,53,86971,Product C,Competitor Product B,123,0,10
+9019,21,45188,,Competitor Product A,173,1,8
+52086,32,74547,Product C,Competitor Product A,338,1,3
+4690,43,73428,Product B,Competitor Product A,213,1,5
+84778,26,73578,,Competitor Product A,303,1,8
+4978,43,66646,Product A,Competitor Product A,328,1,7
+73449,40,53513,,Competitor Product B,1,1,9
+73521,62,74648,Product A,,224,0,10
+17137,28,48909,Product B,,39,1,7
+1684,29,93657,,Competitor Product A,301,1,8
+69647,37,95482,Product C,Competitor Product B,91,1,2
+94760,65,63834,Product B,Competitor Product B,365,0,7
+96250,29,86401,Product C,Competitor Product B,92,0,6
+85761,33,62574,Product B,Competitor Product A,192,1,7
+82236,49,32211,Product A,Competitor Product A,197,1,8
+8358,24,37594,Product B,Competitor Product A,101,0,9
+5870,58,61244,Product C,Competitor Product A,59,0,7
+56026,60,69040,Product C,,198,0,7
+58474,47,66530,,Competitor Product B,201,1,4
+75875,43,66642,,Competitor Product A,73,0,2
+947,37,68729,,Competitor Product B,74,0,3
+81766,25,78348,Product A,Competitor Product A,192,1,5
+89900,66,35846,Product B,,92,0,3
+85522,45,88699,Product A,Competitor Product B,267,0,2
+43405,55,92746,Product B,Competitor Product A,312,0,2
+39922,30,68295,Product B,Competitor Product B,110,0,1
+46737,41,38742,Product A,,265,0,4
+51274,20,64313,Product B,,317,1,1
+90170,42,36037,Product C,,263,0,2
+67810,31,66341,,Competitor Product A,300,0,8
+40693,40,69055,Product A,Competitor Product B,246,0,7
+25229,66,35393,Product A,,181,1,4
+70605,68,84450,Product B,Competitor Product A,95,1,2
+24790,34,51277,Product B,Competitor Product B,255,0,1
+43623,60,94346,,Competitor Product A,295,1,10
+3090,57,66692,Product A,,34,0,2
+21484,26,33138,Product A,,134,1,4
+32340,37,98535,,,285,1,1
+19203,36,77509,Product C,Competitor Product A,15,0,2
+57935,70,93019,Product A,,153,0,8
+25552,20,59365,Product B,Competitor Product A,317,0,7
+13929,41,95238,Product A,Competitor Product B,48,1,10
+99600,20,72546,Product C,Competitor Product B,160,1,1
+63153,67,33132,,Competitor Product B,256,1,1
+49992,55,33815,Product A,Competitor Product B,118,1,6
+40708,33,85965,Product A,Competitor Product B,205,0,4
+17219,34,67267,Product A,,10,1,7
+44728,52,59925,,Competitor Product B,123,1,3
+83053,38,95002,Product C,Competitor Product A,65,0,8
+43526,47,61938,Product C,,88,0,7
+47274,21,52267,Product C,Competitor Product A,302,1,9
+52159,60,80761,Product B,Competitor Product B,80,1,6
+56481,65,89097,Product B,Competitor Product A,164,0,6
+45953,59,94920,Product C,Competitor Product A,28,0,5
+82075,38,36990,,Competitor Product B,163,0,2
+10346,55,56797,,Competitor Product A,214,1,3
+11426,48,75126,,,242,0,10
+55363,29,94180,Product C,,256,1,5
+35733,19,79502,,Competitor Product B,269,1,8
+28904,42,54238,Product B,,38,0,1
+84816,33,84020,Product A,Competitor Product A,154,0,4
+11870,32,74841,Product C,Competitor Product B,238,1,1
+43395,68,55331,Product A,Competitor Product B,265,0,2
+95053,49,85098,Product A,Competitor Product B,74,0,3
+19417,65,42218,Product A,Competitor Product A,186,0,3
+33533,22,86030,Product A,Competitor Product B,75,0,8
+86617,33,67345,Product B,Competitor Product B,260,1,5
+6482,32,44027,Product B,Competitor Product A,12,1,7
+63918,35,57625,Product C,,320,0,3
+83889,38,65259,Product B,Competitor Product A,102,0,7
+67815,58,78025,,Competitor Product A,141,1,4
+51113,31,38657,Product C,Competitor Product B,128,0,10
+57363,56,57752,Product C,Competitor Product A,83,0,7
+69528,41,94773,Product C,,84,0,2
+37299,63,35030,,Competitor Product B,238,1,10
+45875,66,60601,Product C,Competitor Product B,131,1,2
+12771,54,86487,Product A,,289,1,3
+70559,64,53726,,,214,0,7
+3017,33,96480,Product A,Competitor Product B,320,1,8
+30235,32,32958,Product B,Competitor Product B,49,1,6
+31669,18,36175,Product A,Competitor Product A,171,1,6
+23950,52,73874,Product B,Competitor Product A,245,0,3
+27406,19,95798,Product A,,258,1,8
+12081,19,98663,Product C,Competitor Product A,102,0,4
+82713,48,87297,Product C,Competitor Product B,70,1,10
+2192,70,32132,,Competitor Product B,286,1,10
+96086,36,53300,Product B,Competitor Product B,53,0,3
+91911,61,48036,Product A,Competitor Product A,275,1,2
+96189,48,94546,,Competitor Product A,46,0,9
+61463,60,88085,,Competitor Product B,69,0,2
+44872,46,64424,Product C,,103,0,2
+86198,46,63766,Product A,Competitor Product A,363,1,2
+93598,48,39326,,Competitor Product A,61,0,8
+37968,50,48448,Product A,Competitor Product A,25,1,6
+49478,61,48536,Product C,Competitor Product B,33,0,8
+86516,35,67018,Product C,,166,1,9
+1987,36,64082,Product C,Competitor Product B,199,0,2
+17911,57,61497,Product B,Competitor Product B,52,1,7
+15878,65,36503,,Competitor Product B,216,0,6
+82990,37,44789,Product A,,241,0,3
+24186,22,82947,Product A,,13,1,2
+19191,58,82898,Product A,Competitor Product A,57,0,2
+64918,66,39785,Product B,Competitor Product A,223,1,9
+84632,34,38123,,,63,0,1
+90254,39,30423,Product B,,332,1,3
+79790,68,30977,,Competitor Product B,251,1,6
+11872,46,74815,Product B,Competitor Product A,244,0,4
+96615,47,94324,Product B,Competitor Product A,43,1,6
+75607,38,73489,,Competitor Product A,337,0,10
+18596,64,66583,Product B,Competitor Product A,84,0,5
+56645,42,51041,Product C,,113,1,5
+89974,22,78586,,Competitor Product B,236,0,4
+82089,52,67435,Product A,,76,1,8
+37801,44,79032,Product B,Competitor Product B,65,0,5
+50854,31,97939,,,138,1,6
+38517,42,30703,Product A,,265,1,3
+8744,43,99752,Product C,Competitor Product B,70,1,9
+1401,66,42156,,,245,0,2
+54984,31,70947,Product A,,150,0,7
+77047,19,62924,,Competitor Product B,139,1,1
+43957,47,58341,Product B,Competitor Product B,87,0,9
+42925,22,98129,Product B,Competitor Product A,80,1,1
+52107,40,38914,Product B,Competitor Product B,168,1,4
+95594,24,76417,Product A,Competitor Product A,8,1,1
+94141,67,73486,Product A,Competitor Product B,128,0,9
+83181,48,74922,Product C,Competitor Product B,337,0,10
+80628,43,60157,Product C,Competitor Product B,35,1,2
+55658,43,88993,Product C,Competitor Product B,177,0,4
+71473,24,92335,Product B,,258,1,1
+95111,40,70651,Product A,,196,1,4
+38859,45,70337,Product A,,144,0,8
+81727,67,85488,Product C,,4,0,6
+98150,61,88469,Product B,Competitor Product B,95,0,4
+729,52,50373,Product A,Competitor Product B,234,0,7
+28937,36,74178,,,336,0,10
+20152,66,77078,Product B,,26,0,8
+80703,20,60811,Product C,Competitor Product A,125,0,5
+44450,19,93402,Product A,Competitor Product B,51,1,5
+77804,25,47880,Product B,Competitor Product A,177,1,7
+22143,52,72625,,,167,1,6
+38332,54,98603,Product B,Competitor Product A,27,0,10
+29175,61,68162,Product A,,267,1,1
+78225,55,45905,Product C,Competitor Product A,194,1,3
+82835,57,50181,Product B,Competitor Product B,279,0,7
+73855,19,61233,Product A,Competitor Product A,112,1,6
+85709,63,41712,Product B,,153,0,1
+90726,55,73229,,Competitor Product B,265,0,5
+70778,50,89456,Product C,Competitor Product B,37,1,7
+55274,32,38260,,Competitor Product B,207,0,1
+59157,29,48651,Product C,Competitor Product B,135,0,1
+30249,27,70898,Product C,Competitor Product B,330,1,7
+79647,43,60974,,,182,1,9
+59451,34,91799,Product B,Competitor Product A,216,0,1
+17699,61,92530,,Competitor Product A,321,1,5
+22689,32,35276,Product C,Competitor Product A,181,1,4
+38164,32,75485,Product C,Competitor Product A,87,0,5
+21921,58,99002,,Competitor Product B,159,1,8
+8742,68,46893,Product A,Competitor Product B,85,0,4
+53502,29,39917,Product B,Competitor Product A,350,0,7
+52119,67,61697,,Competitor Product B,214,0,10
+67351,64,69363,Product A,Competitor Product A,188,0,4
+55464,31,66254,,Competitor Product A,213,1,3
+81431,56,74800,Product B,,347,1,5
+18174,68,46965,Product A,Competitor Product A,299,1,5
+71988,52,98185,Product C,Competitor Product A,266,1,6
+88999,70,44727,Product C,Competitor Product A,83,0,6
+26800,59,85647,Product C,Competitor Product A,362,1,9
+7068,51,78985,Product C,,253,1,1
+25616,60,45548,,,248,1,8
+90,56,83807,,Competitor Product B,125,0,6
+79332,64,58971,Product C,Competitor Product B,196,0,7
+2382,26,52957,Product C,,286,0,5
+67144,53,40288,,Competitor Product A,180,1,3
+5603,24,47757,Product C,Competitor Product A,202,1,9
+28342,69,34544,,,294,0,10
+9557,39,82280,,Competitor Product A,64,1,6
+35442,56,65426,,,293,1,9
+41155,59,31445,Product C,Competitor Product B,187,1,4
+3971,70,85624,Product B,Competitor Product A,205,0,10
+76574,65,92849,Product C,,207,1,2
+15402,60,68758,Product C,Competitor Product B,87,0,6
+59154,70,59149,,Competitor Product B,174,0,4
+89332,69,70647,,Competitor Product B,334,0,1
+7211,57,70202,,,54,1,4
+65829,65,87921,Product B,Competitor Product B,35,0,7
+68115,47,96619,,,313,0,6
+8097,47,97738,Product A,Competitor Product B,304,0,4
+66070,31,63348,,,265,1,7
+98837,68,57685,Product B,Competitor Product A,60,0,1
+17135,35,76887,Product B,Competitor Product A,70,1,8
+72354,32,97431,Product B,Competitor Product A,168,1,5
+88864,34,86127,Product B,Competitor Product B,340,1,4
+21765,55,46659,Product B,Competitor Product A,119,1,9
+18609,68,89832,Product B,Competitor Product B,297,0,10
+96681,19,77359,,Competitor Product A,273,0,3
+89125,48,94475,Product A,Competitor Product A,57,0,5
+8360,69,37637,Product C,Competitor Product A,109,0,3
+67439,28,48523,Product C,,15,1,9
+19451,53,71731,Product C,Competitor Product B,193,1,8
+83473,33,55214,Product C,Competitor Product B,67,1,6
+60130,40,96632,Product C,,320,1,3
+48034,33,43698,Product B,,156,0,5
+27464,25,56490,Product B,,50,0,5
+92031,49,62559,,,344,0,4
+9544,44,59490,,,307,1,2
+58957,30,74197,Product B,Competitor Product A,13,1,10
+56755,35,36772,,Competitor Product B,92,0,4
+66444,35,46235,Product B,,253,1,1
+15442,66,45293,Product A,,118,1,5
+84972,39,73872,Product A,Competitor Product B,197,1,5
+874,70,72599,Product C,Competitor Product B,78,1,10
+19473,56,66755,Product A,Competitor Product B,235,0,7
+13979,38,80918,Product C,Competitor Product A,214,1,1
+68757,57,67630,Product B,Competitor Product B,360,0,7
+38478,67,38074,Product A,,55,1,8
+25499,42,33625,,Competitor Product A,312,1,3
+52546,20,67762,Product B,,69,1,9
+22853,22,76044,,Competitor Product A,53,1,8
+23801,18,35277,Product A,Competitor Product A,320,1,5
+52146,66,49325,Product C,Competitor Product B,330,1,10
+822,69,81473,Product B,Competitor Product B,77,0,5
+81808,20,38331,Product B,Competitor Product A,226,0,1
+45070,56,79483,,,168,1,8
+52349,56,70034,Product B,Competitor Product B,196,1,2
+85864,20,44465,Product A,,59,1,1
+37043,38,59358,Product C,,83,1,5
+81851,19,72181,,Competitor Product B,309,0,7
+17566,33,60155,Product B,Competitor Product A,190,0,7
+16356,58,69468,Product B,Competitor Product B,206,1,5
+14262,61,46193,,,189,1,2
+33607,22,88527,Product A,Competitor Product A,196,1,7
+23979,63,47697,,,199,1,2
+35316,59,71116,Product C,Competitor Product B,335,0,8
+2299,58,96484,Product A,Competitor Product A,365,0,7
+99052,39,85784,Product B,Competitor Product A,354,0,4
+80748,21,77126,Product C,,139,1,7
+54180,68,75698,,Competitor Product B,148,1,5
+36538,18,86125,,,118,0,8
+48152,29,75845,Product B,Competitor Product B,362,1,1
+47234,36,84278,,Competitor Product A,172,1,7
+5734,27,72340,Product C,Competitor Product B,107,1,10
+80248,45,31235,Product B,,310,1,2
+45033,59,79378,,Competitor Product A,264,1,1
+30014,23,37806,,Competitor Product A,72,1,1
+33037,31,44931,,Competitor Product B,365,1,6
+7489,56,66155,Product B,Competitor Product B,54,0,10
+78410,46,58318,Product B,Competitor Product B,318,0,9
+10466,26,91999,Product B,,278,1,6
+93049,35,81464,,,123,0,2
+2911,24,59544,Product B,Competitor Product B,236,1,6
+64449,56,79496,Product B,Competitor Product B,308,0,8
+32816,28,35069,Product B,Competitor Product A,260,0,10
+81869,53,90620,Product B,,85,1,6
+94978,64,30546,Product C,Competitor Product B,123,0,5
+80394,63,74542,Product A,,125,1,7
+35513,70,76221,Product A,Competitor Product A,338,1,8
+80374,34,75417,Product B,Competitor Product B,25,0,10
+21268,57,77982,Product B,Competitor Product B,97,0,2
+67029,34,58472,Product A,Competitor Product A,226,1,8
+45965,68,54064,,Competitor Product A,149,1,4
+1690,18,87997,Product A,Competitor Product B,340,0,8
+83374,19,45879,Product A,Competitor Product A,89,0,8
+59920,32,74523,,,17,1,10
+18119,34,49599,,,178,1,3
+89975,57,99289,Product C,Competitor Product A,295,1,7
+65416,70,36003,Product C,Competitor Product A,241,0,8
+97343,33,44573,,,261,0,10
+85437,69,61267,Product B,,324,1,3
+39323,69,97274,Product A,Competitor Product A,178,1,4
+47615,37,98221,,Competitor Product A,235,0,1
+11081,33,45868,Product A,,252,0,8
+62589,69,44071,Product C,Competitor Product B,87,0,4
+41505,37,47019,Product B,,256,1,4
+63285,47,83756,Product B,Competitor Product A,330,1,7
+2165,35,60152,,,200,1,9
+26057,70,80992,Product B,Competitor Product A,117,1,5
+99356,54,36895,Product B,Competitor Product B,17,0,6
+92107,59,73078,Product B,Competitor Product B,304,0,5
+62596,32,94948,Product C,Competitor Product A,109,1,3
+4245,37,62888,Product B,,258,0,4
+25941,29,90603,Product C,Competitor Product A,234,0,8
+50250,47,93518,Product A,,19,0,8
+59714,58,35711,Product B,Competitor Product B,138,1,3
+24584,49,74804,Product A,Competitor Product A,7,0,3
+64890,27,42343,Product C,,199,0,7
+19835,60,79959,,,300,1,5
+63537,28,70910,Product A,Competitor Product A,84,0,2
+49748,49,43341,Product C,,75,1,5
+27578,21,66225,,Competitor Product B,301,0,2
+13966,36,39731,Product A,,72,0,10
+537,36,77594,,Competitor Product A,198,1,9
+58102,39,81622,Product C,Competitor Product B,99,0,5
+27871,52,69051,Product B,Competitor Product A,20,1,9
+46511,43,39333,Product C,,67,0,7
+57627,70,49010,Product A,Competitor Product B,7,0,3
+95204,18,69821,Product B,,129,0,7
+3496,58,83135,Product C,Competitor Product A,332,0,4
+53554,67,45737,,,21,1,1
+31747,58,52708,Product B,Competitor Product B,123,1,4
+57507,22,95504,,,203,1,9
+33680,43,57457,Product B,,115,1,1
+90776,46,96720,,Competitor Product B,108,1,10
+33451,42,87369,Product A,,222,1,2
+65588,32,95436,,,98,1,3
+26001,39,90993,Product B,Competitor Product A,85,1,3
+1258,22,43674,,Competitor Product A,336,1,5
+32757,67,33244,Product B,,276,1,5
+55181,24,46954,Product A,,77,1,4
+83631,40,82726,Product B,Competitor Product A,192,1,9
+99078,54,53307,Product B,Competitor Product B,150,0,6
+5469,38,99130,,Competitor Product B,120,0,4
+12018,37,45457,Product B,Competitor Product B,280,1,4
+13164,49,40554,,Competitor Product B,281,0,3
+34511,53,82301,Product A,Competitor Product B,318,0,8
+40899,54,32964,Product B,Competitor Product B,230,1,2
+70358,57,44565,Product B,Competitor Product A,203,0,4
+32599,39,42571,,Competitor Product B,327,0,9
+81777,43,39579,Product C,Competitor Product B,26,0,2
+10018,52,32295,Product C,,139,0,7
+12850,44,44624,,,96,0,1
+66652,24,64794,Product C,Competitor Product B,6,0,2
+18254,36,74842,Product C,,101,0,10
+89828,39,60979,Product A,Competitor Product A,187,0,4
+68712,38,62139,,Competitor Product A,264,1,7
+58220,25,68484,,,8,0,10
+96756,32,55364,Product B,,119,0,10
+87240,35,46060,,,27,1,10
+95101,49,69055,Product C,,212,0,3
+4687,52,67301,,Competitor Product A,165,0,1
+83789,67,62601,Product A,,191,0,3
+26423,40,92746,Product A,Competitor Product B,157,0,3
+70964,51,34261,,,143,1,1
+31525,28,35356,Product B,,115,0,10
+47322,70,57103,Product B,,126,1,1
+2972,41,98972,,,30,0,5
+67440,63,63574,Product B,Competitor Product A,346,1,6
+80029,64,38740,Product C,Competitor Product B,189,0,2
+30206,24,92374,Product C,,163,0,5
+28453,66,57233,Product B,,48,0,1
+72700,39,77997,Product C,Competitor Product A,169,1,5
+14861,65,99251,Product B,Competitor Product A,346,1,6
+89203,46,69467,Product A,Competitor Product A,251,1,3
+57656,29,49071,Product B,Competitor Product A,326,1,3
+78883,42,57104,Product A,Competitor Product A,300,1,10
+95365,27,63876,Product C,Competitor Product B,173,0,7
+48171,64,76146,,Competitor Product A,231,1,5
+45243,30,54872,,Competitor Product A,144,0,5
+2950,57,77055,Product C,,331,1,2
+82331,33,80772,Product A,Competitor Product B,310,0,4
+36154,68,74484,Product A,Competitor Product B,124,0,9
+91617,45,74034,Product B,Competitor Product B,16,0,2
+69738,64,73539,Product C,,167,1,6
+76383,30,64292,Product C,Competitor Product B,43,1,8
+59445,33,83994,Product A,Competitor Product B,206,1,5
+68708,60,75355,Product C,Competitor Product A,241,0,10
+6134,35,89292,Product B,Competitor Product A,206,1,8
+8032,46,31300,Product C,Competitor Product B,114,0,6
+994,18,99847,Product B,Competitor Product A,151,0,3
+14447,38,91927,,,81,1,1
+56986,70,36422,Product B,Competitor Product A,20,1,7
+41934,54,47440,Product B,Competitor Product B,348,0,8
+60069,23,76294,Product C,,290,1,8
+3559,63,85884,Product B,Competitor Product A,103,0,5
+18003,58,85894,Product A,Competitor Product A,120,0,2
+69734,46,71167,Product C,Competitor Product B,130,0,1
+96911,30,47903,Product C,Competitor Product A,363,1,5
+59711,28,57624,Product B,,276,1,4
+77714,67,57822,Product C,Competitor Product A,277,1,3
+23621,54,74142,Product C,Competitor Product B,243,1,1
+26106,26,95395,Product B,Competitor Product B,6,1,4
+3513,53,79805,,Competitor Product B,250,1,2
+80542,56,34403,Product C,Competitor Product A,174,0,8
+31995,41,37055,Product A,,243,1,5
+98023,50,38178,Product C,Competitor Product B,80,0,1
+35989,63,30211,Product C,,52,0,1
+43326,39,53775,,,20,1,8
+69816,48,78407,Product A,Competitor Product A,156,1,10
+51324,42,50213,Product C,,244,1,4
+9082,53,59376,,Competitor Product B,116,1,2
+48496,32,77000,Product B,,123,0,1
+90921,31,33488,Product B,Competitor Product A,229,0,5
+45135,44,95142,Product C,Competitor Product A,3,1,3
+32143,39,64122,,,87,0,9
+92414,30,67165,Product B,,207,0,10
+52247,25,32188,Product A,,223,1,2
+15248,33,75288,Product A,Competitor Product A,42,1,2
+89276,22,97310,Product A,,162,0,7
+54138,64,37666,Product B,Competitor Product B,25,1,6
+28499,46,86605,,,15,0,7
+18607,32,97996,Product B,Competitor Product A,285,0,4
+88591,55,30379,Product C,Competitor Product B,329,0,10
+98044,25,83944,Product A,Competitor Product A,181,0,7
+8920,38,94621,Product B,Competitor Product B,103,1,8
+13939,19,47912,Product C,Competitor Product A,235,0,1
+83945,49,78812,,,358,1,7
+48045,20,49054,Product B,Competitor Product A,64,1,9
+46161,45,87088,,Competitor Product A,101,1,1
+54756,53,47110,,,69,0,6
+70174,53,92493,Product C,Competitor Product B,344,1,8
+30303,27,85433,,Competitor Product A,331,1,7
+89056,67,30857,,Competitor Product B,21,0,1
+35621,34,98841,Product A,,139,1,8
+31972,36,95837,Product A,,125,1,5
+37619,50,40972,Product B,,88,1,5
+81596,44,67919,,Competitor Product A,293,0,4
+15762,57,40462,Product B,,224,0,6
+10079,45,64493,,Competitor Product B,214,0,10
+91324,23,61421,Product B,,47,1,3
+8353,62,31217,Product A,Competitor Product B,264,1,2
+59902,60,38516,Product B,,29,1,1
+96453,38,72394,,Competitor Product B,165,0,9
+21835,23,76875,Product C,Competitor Product A,100,0,3
+40449,63,49376,Product B,Competitor Product A,77,0,1
+62267,56,57341,,Competitor Product B,113,0,8
+520,36,74130,Product B,Competitor Product A,257,1,5
+63598,63,88425,Product A,,185,0,4
+71436,43,63556,Product C,Competitor Product A,106,1,8
+69735,38,43170,Product C,Competitor Product A,270,0,6
+82345,40,48159,Product B,Competitor Product B,341,1,3
+3854,55,80194,,Competitor Product B,196,0,9
+19733,56,42949,,,353,0,3
+94273,48,66563,Product A,Competitor Product B,248,0,6
+43790,67,33564,Product A,Competitor Product A,284,0,1
+43909,22,77661,,Competitor Product B,132,0,3
+68442,62,77894,,,223,1,7
+63155,68,73739,,Competitor Product B,161,0,4
+48049,59,85087,,Competitor Product B,303,0,9
+67707,22,95029,Product C,Competitor Product B,260,1,7
+74391,63,74286,Product B,Competitor Product B,33,1,2
+76257,44,38432,Product C,,165,1,8
+51478,39,85527,Product C,,329,1,10
+94138,28,75543,Product A,Competitor Product A,176,0,3
+13716,62,71899,Product C,Competitor Product A,251,0,6
+13502,65,68711,Product A,Competitor Product A,67,0,9
+56444,58,47257,Product C,Competitor Product B,54,1,7
+64883,20,72922,,Competitor Product B,214,1,7
+53371,50,70622,Product A,Competitor Product B,34,1,5
+97904,55,93818,Product A,,60,1,4
+20879,53,55374,Product A,Competitor Product B,12,0,7
+37451,53,88387,Product C,,84,1,1
+76858,42,44007,Product C,Competitor Product B,342,1,6
+34185,60,63409,,,66,0,10
+73651,57,66682,Product B,Competitor Product A,60,0,8
+89528,40,36803,Product B,Competitor Product B,106,1,6
+82796,58,54679,,,189,0,6
+97275,58,89399,,,86,1,10
+39851,60,62790,Product B,Competitor Product A,360,1,4
+86504,32,49789,Product C,Competitor Product B,245,1,4
+86909,22,77133,Product A,Competitor Product A,238,0,1
+50803,60,36657,Product A,Competitor Product A,59,0,9
+17267,40,93835,,Competitor Product B,212,0,5
+61759,63,72263,Product A,,193,0,4
+73889,19,65046,Product A,,276,1,1
+38116,60,39757,Product B,Competitor Product B,103,0,5
+59698,31,81398,Product A,Competitor Product A,97,0,6
+74812,40,48389,Product C,Competitor Product A,114,1,3
+12231,33,40562,Product B,Competitor Product A,169,1,8
+39794,46,70017,Product B,Competitor Product A,354,0,9
+44169,47,52944,Product A,,301,1,9
+59446,36,47833,,,217,1,5
+46213,33,51105,Product C,,351,1,5
+84373,30,80554,Product A,Competitor Product B,189,1,7
+78254,54,31601,Product C,Competitor Product A,313,1,9
+36411,32,42959,Product C,Competitor Product B,107,0,1
+11247,47,37917,Product B,Competitor Product A,37,1,7
+37090,53,48249,,Competitor Product B,232,1,3
+11519,62,76715,Product B,Competitor Product A,47,1,5
+48514,62,54743,Product A,Competitor Product A,176,1,3
+98280,36,98312,Product C,,213,0,1
+76068,52,59748,,,113,1,5
+23607,60,63419,Product B,,236,1,4
+97153,33,80428,Product A,,75,1,9
+20981,57,46328,,Competitor Product A,363,0,6
+4387,59,71125,Product C,Competitor Product A,170,0,2
+74228,32,83210,Product B,Competitor Product B,209,1,2
+94160,57,41503,,Competitor Product B,93,1,4
+92056,35,94162,Product B,,258,0,9
+72542,34,54186,Product C,Competitor Product A,162,1,8
+58219,36,98198,Product B,,40,1,4
+59452,68,35913,Product B,Competitor Product B,316,1,7
+29742,63,60019,Product A,Competitor Product A,365,0,4
+61245,62,50042,,,243,0,6
+50427,42,97409,Product B,Competitor Product B,67,1,7
+82715,44,99290,,,55,0,5
+33544,19,77152,Product B,,123,1,10
+18795,24,34976,,Competitor Product B,238,1,3
+71225,35,87263,,,258,1,9
+54515,37,38187,,Competitor Product B,44,0,1
+8953,24,67353,Product B,,248,1,9
+40249,21,96695,Product A,Competitor Product A,320,0,7
+74794,26,88911,Product A,Competitor Product B,25,0,4
+68778,39,74217,Product C,,29,1,2
+13237,65,66990,,,72,1,7
+47780,32,85568,Product A,,254,1,7
+48071,20,64054,Product A,,303,1,5
+79273,51,84034,Product C,,18,1,2
+36895,54,48660,,Competitor Product B,271,0,9
+84793,48,63685,Product B,Competitor Product A,26,1,9
+36569,57,68583,Product A,Competitor Product B,97,1,1
+80761,61,48170,,Competitor Product A,177,1,8
+78008,43,77099,Product C,Competitor Product A,267,1,5
+83616,49,61540,,,85,0,7
+84732,70,62838,Product A,Competitor Product A,219,1,1
+30026,60,94930,Product A,Competitor Product A,304,1,7
+78961,34,90500,Product A,Competitor Product A,115,0,8
+40043,40,55209,Product C,Competitor Product A,181,0,5
+98636,33,52671,Product A,,190,0,5
+95257,22,67051,,Competitor Product A,116,0,9
+67851,45,78089,Product B,,324,1,6
